@@ -1,4 +1,4 @@
-# Walmart Sales Analysis
+# COVID-19 Cases Analysis and Forecasting
 
 **Files**
 - `COVID19.ipynb` — analysis notebook
