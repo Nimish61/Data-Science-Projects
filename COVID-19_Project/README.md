@@ -1,7 +1,7 @@
 # COVID-19 Cases Analysis and Forecasting
 
 **Files**
-- `COVID19.ipynb` — analysis notebook
+- `COVID19.ipynb` — analysis and forecasting notebook
 - `covid_19_clean_complete.csv` — source data
 
 **What this project does**
